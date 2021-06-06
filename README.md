@@ -2,7 +2,7 @@
 
 Twitter bot using tweepy
 
-use to 
+Use to 
 
 -post a tweet
 
